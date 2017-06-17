@@ -13,6 +13,8 @@ public class AssertTest {
 	public void hardass()
 	{
 		System.out.println("Hard Assert Started");
+		
+		System.out.println("Hard Assert Started");
 		Assert.assertEquals(67,67,"Values did not Match");
 		System.out.println("Hard Assert Ended");
 		
