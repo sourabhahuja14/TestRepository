@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8123" started-at="2017-06-16T11:50:40Z" finished-at="2017-06-16T11:50:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8123" started-at="2017-06-16T11:50:40Z" finished-at="2017-06-16T11:50:49Z">
+      <class name="TestNgPackage.NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNgPackage.NewTest@26be92ad]" name="f" duration-ms="8054" started-at="2017-06-16T17:20:41Z" finished-at="2017-06-16T17:20:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- TestNgPackage.NewTest -->
+      <class name="TestNgPackage.AssertTest">
+        <test-method status="PASS" signature="hardass()[pri:0, instance:TestNgPackage.AssertTest@2b98378d]" name="hardass" duration-ms="27" started-at="2017-06-16T17:20:41Z" finished-at="2017-06-16T17:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hardass -->
+        <test-method status="PASS" signature="softAssert()[pri:0, instance:TestNgPackage.AssertTest@2b98378d]" name="softAssert" duration-ms="6" started-at="2017-06-16T17:20:41Z" finished-at="2017-06-16T17:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- softAssert -->
+      </class> <!-- TestNgPackage.AssertTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
