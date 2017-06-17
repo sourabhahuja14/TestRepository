@@ -17,7 +17,7 @@ public class AssertTest {
 		System.out.println("Hard Assert Started");
 		Assert.assertEquals(67,67,"Values did not Match");
 		System.out.println("Hard Assert Ended");
-		System.out.println("Hard Assert Started");
+
 		
 	}
 	
