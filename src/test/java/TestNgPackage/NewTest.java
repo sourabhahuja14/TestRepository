@@ -76,6 +76,8 @@ public class NewTest {
 	  driver.close();*/
 	  
 	  driver.manage().window().maximize();
+	  System.out.println("Testing GitHub Changes");
+	  
 	  
 /*	  Dimension obj=driver.findElement(By.xpath("//*[@placeholder='Pick a username']")).getSize();
 	  
